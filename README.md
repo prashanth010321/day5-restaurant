@@ -1,1 +1,1 @@
-# day5-restaurant
+# Day05_Boilerplate
